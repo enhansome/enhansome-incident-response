@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-12T16:29:06Z",
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7202
+                "stars": 7200
               }
             },
             {
@@ -171,10 +171,10 @@
                 "archived": false,
                 "id": 309820286,
                 "language": "Go",
-                "last_commit": "2026-08-19T12:26:45Z",
+                "last_commit": "2026-08-19T19:33:49Z",
                 "owner": "fleetdm",
                 "repo": "fleet",
-                "stars": 6747
+                "stars": 6750
               }
             },
             {
@@ -366,7 +366,7 @@
                 "archived": false,
                 "id": 1279470595,
                 "language": "Go",
-                "last_commit": "2026-08-19T07:23:43Z",
+                "last_commit": "2026-08-19T14:47:49Z",
                 "owner": "cynative",
                 "repo": "cynative",
                 "stars": 190
@@ -466,7 +466,7 @@
                 "last_commit": "2026-07-31T12:40:49Z",
                 "owner": "ForensicArtifacts",
                 "repo": "artifacts",
-                "stars": 1262
+                "stars": 1263
               }
             },
             {
@@ -590,7 +590,7 @@
                 "archived": false,
                 "id": 262044260,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T17:04:06Z",
+                "last_commit": "2026-08-19T17:10:29Z",
                 "owner": "Shuffle",
                 "repo": "Shuffle",
                 "stars": 2414
@@ -720,7 +720,7 @@
                 "last_commit": "2026-07-30T07:42:29Z",
                 "owner": "libyal",
                 "repo": "winreg-kb",
-                "stars": 200
+                "stars": 201
               }
             },
             {
@@ -787,7 +787,7 @@
                 "last_commit": "2026-04-17T23:38:03Z",
                 "owner": "bad-antics",
                 "repo": "nullsec-linux",
-                "stars": 79
+                "stars": 80
               }
             }
           ],
@@ -846,7 +846,7 @@
                 "last_commit": "2026-08-18T23:42:38Z",
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 10906
+                "stars": 10908
               }
             },
             {
@@ -858,7 +858,7 @@
                 "archived": false,
                 "id": 395658506,
                 "language": "Rust",
-                "last_commit": "2026-08-04T17:34:09Z",
+                "last_commit": "2026-08-19T19:29:57Z",
                 "owner": "WithSecureLabs",
                 "repo": "chainsaw",
                 "stars": 3634
@@ -1060,10 +1060,10 @@
                 "archived": false,
                 "id": 16258388,
                 "language": "Python",
-                "last_commit": "2026-08-14T07:48:34Z",
+                "last_commit": "2026-08-19T14:14:53Z",
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4336
+                "stars": 4338
               }
             },
             {
@@ -1078,7 +1078,7 @@
                 "last_commit": "2026-08-17T21:01:29Z",
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4289
+                "stars": 4290
               }
             },
             {
@@ -1105,7 +1105,7 @@
                 "archived": false,
                 "id": 190660866,
                 "language": "Rust",
-                "last_commit": "2026-08-17T22:25:13Z",
+                "last_commit": "2026-08-19T16:09:14Z",
                 "owner": "microsoft",
                 "repo": "avml",
                 "stars": 1118
@@ -1728,7 +1728,7 @@
                 "last_commit": "2026-08-18T16:16:20Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72516
+                "stars": 72526
               }
             },
             {
@@ -1740,10 +1740,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-19T11:03:59Z",
+                "last_commit": "2026-08-19T16:15:57Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24597
+                "stars": 24600
               }
             },
             {
@@ -1773,7 +1773,7 @@
                 "last_commit": "2026-08-18T14:52:38Z",
                 "owner": "mandiant",
                 "repo": "capa",
-                "stars": 6144
+                "stars": 6146
               }
             },
             {
@@ -1815,10 +1815,10 @@
                 "archived": false,
                 "id": 215366713,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:28:50Z",
+                "last_commit": "2026-08-19T13:28:29Z",
                 "owner": "kevoreilly",
                 "repo": "CAPEv2",
-                "stars": 3434
+                "stars": 3433
               }
             },
             {
@@ -2061,10 +2061,10 @@
                 "archived": false,
                 "id": 54714794,
                 "language": "Go",
-                "last_commit": "2026-08-19T10:41:02Z",
+                "last_commit": "2026-08-19T16:42:36Z",
                 "owner": "rabbitstack",
                 "repo": "fibratus",
-                "stars": 2528
+                "stars": 2529
               }
             },
             {
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:48.270Z",
+    "last_updated": "2026-08-19T19:35:08.813Z",
     "original_repository": "meirwah/awesome-incident-response",
     "original_repository_id": 45943554,
     "original_repository_sha": "bfe8326fbed21014cd16acec3f3963a59cee3472",
