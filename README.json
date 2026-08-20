@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-17T18:03:26Z",
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12424
+                "stars": 12428
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-12T16:29:06Z",
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7200
+                "stars": 7207
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-09-23T10:20:43Z",
                 "owner": "NextronSystems",
                 "repo": "APTSimulator",
-                "stars": 2763
+                "stars": 2761
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-06-23T01:18:45Z",
                 "owner": "mandiant",
                 "repo": "flare-vm",
-                "stars": 8947
+                "stars": 8950
               }
             },
             {
@@ -171,10 +171,10 @@
                 "archived": false,
                 "id": 309820286,
                 "language": "Go",
-                "last_commit": "2026-08-19T19:33:49Z",
+                "last_commit": "2026-08-20T19:39:24Z",
                 "owner": "fleetdm",
                 "repo": "fleet",
-                "stars": 6750
+                "stars": 6751
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-05-12T12:52:29Z",
                 "owner": "google",
                 "repo": "grr",
-                "stars": 5087
+                "stars": 5089
               }
             },
             {
@@ -201,10 +201,10 @@
                 "archived": false,
                 "id": 126576769,
                 "language": "Go",
-                "last_commit": "2026-08-18T11:46:37Z",
+                "last_commit": "2026-08-20T17:33:42Z",
                 "owner": "Velocidex",
                 "repo": "velociraptor",
-                "stars": 4187
+                "stars": 4190
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2026-07-13T12:08:36Z",
                 "owner": "dfir-iris",
                 "repo": "iris-web",
-                "stars": 1537
+                "stars": 1541
               }
             },
             {
@@ -291,7 +291,7 @@
                 "archived": false,
                 "id": 44610249,
                 "language": "Python",
-                "last_commit": "2026-08-19T07:49:23Z",
+                "last_commit": "2026-08-20T19:40:16Z",
                 "owner": "zentralopensource",
                 "repo": "zentral",
                 "stars": 876
@@ -366,10 +366,10 @@
                 "archived": false,
                 "id": 1279470595,
                 "language": "Go",
-                "last_commit": "2026-08-19T14:47:49Z",
+                "last_commit": "2026-08-20T14:49:44Z",
                 "owner": "cynative",
                 "repo": "cynative",
-                "stars": 190
+                "stars": 191
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2026-08-18T02:21:24Z",
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1409
+                "stars": 1411
               }
             },
             {
@@ -466,7 +466,7 @@
                 "last_commit": "2026-07-31T12:40:49Z",
                 "owner": "ForensicArtifacts",
                 "repo": "artifacts",
-                "stars": 1263
+                "stars": 1264
               }
             },
             {
@@ -481,7 +481,7 @@
                 "last_commit": "2022-06-01T23:24:42Z",
                 "owner": "orlikoski",
                 "repo": "CyLR",
-                "stars": 732
+                "stars": 730
               }
             },
             {
@@ -556,7 +556,7 @@
                 "last_commit": "2026-08-12T10:24:34Z",
                 "owner": "fox-it",
                 "repo": "acquire",
-                "stars": 123
+                "stars": 122
               }
             },
             {
@@ -593,7 +593,7 @@
                 "last_commit": "2026-08-19T17:10:29Z",
                 "owner": "Shuffle",
                 "repo": "Shuffle",
-                "stars": 2414
+                "stars": 2415
               }
             },
             {
@@ -705,7 +705,7 @@
                 "last_commit": "2023-01-24T12:02:51Z",
                 "owner": "sbousseaden",
                 "repo": "EVTX-ATTACK-SAMPLES",
-                "stars": 2609
+                "stars": 2610
               }
             },
             {
@@ -809,7 +809,7 @@
                 "last_commit": "2023-11-21T13:20:21Z",
                 "owner": "MagnetForensics",
                 "repo": "dumpit-linux",
-                "stars": 249
+                "stars": 248
               }
             },
             {
@@ -846,7 +846,7 @@
                 "last_commit": "2026-08-18T23:42:38Z",
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 10908
+                "stars": 10918
               }
             },
             {
@@ -876,7 +876,7 @@
                 "last_commit": "2026-08-03T15:00:37Z",
                 "owner": "Yamato-Security",
                 "repo": "hayabusa",
-                "stars": 3313
+                "stars": 3315
               }
             },
             {
@@ -891,7 +891,7 @@
                 "last_commit": "2026-08-02T02:31:38Z",
                 "owner": "JPCERTCC",
                 "repo": "LogonTracer",
-                "stars": 3211
+                "stars": 3212
               }
             },
             {
@@ -1063,7 +1063,7 @@
                 "last_commit": "2026-08-19T14:14:53Z",
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4338
+                "stars": 4336
               }
             },
             {
@@ -1078,7 +1078,7 @@
                 "last_commit": "2026-08-17T21:01:29Z",
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4290
+                "stars": 4295
               }
             },
             {
@@ -1093,7 +1093,7 @@
                 "last_commit": "2026-04-05T13:42:51Z",
                 "owner": "jtsylve",
                 "repo": "LiME",
-                "stars": 2028
+                "stars": 2029
               }
             },
             {
@@ -1272,7 +1272,7 @@
                 "last_commit": "2026-05-14T21:15:16Z",
                 "owner": "cugu",
                 "repo": "awesome-forensics",
-                "stars": 5161
+                "stars": 5162
               }
             },
             {
@@ -1287,7 +1287,7 @@
                 "last_commit": "2026-07-30T13:37:13Z",
                 "owner": "DidierStevens",
                 "repo": "DidierStevensSuite",
-                "stars": 2520
+                "stars": 2521
               }
             },
             {
@@ -1339,7 +1339,7 @@
                 "last_commit": "2024-07-03T17:26:43Z",
                 "owner": "SwiftOnSecurity",
                 "repo": "sysmon-config",
-                "stars": 5624
+                "stars": 5625
               }
             },
             {
@@ -1369,7 +1369,7 @@
                 "last_commit": "2026-08-10T00:47:52Z",
                 "owner": "olafhartong",
                 "repo": "sysmon-modular",
-                "stars": 3119
+                "stars": 3116
               }
             },
             {
@@ -1414,7 +1414,7 @@
                 "last_commit": "2026-08-09T15:40:43Z",
                 "owner": "RyanDFIR",
                 "repo": "hindsight",
-                "stars": 1486
+                "stars": 1488
               }
             },
             {
@@ -1616,7 +1616,7 @@
                 "last_commit": "2026-01-12T00:17:37Z",
                 "owner": "OTRF",
                 "repo": "ThreatHunter-Playbook",
-                "stars": 4635
+                "stars": 4637
               }
             },
             {
@@ -1631,7 +1631,7 @@
                 "last_commit": "2025-04-11T11:11:13Z",
                 "owner": "certsocietegenerale",
                 "repo": "IRM",
-                "stars": 1141
+                "stars": 1140
               }
             },
             {
@@ -1676,7 +1676,7 @@
                 "last_commit": "2024-05-07T06:33:24Z",
                 "owner": "counteractive",
                 "repo": "incident-response-plan-template",
-                "stars": 800
+                "stars": 801
               }
             },
             {
@@ -1706,7 +1706,7 @@
                 "last_commit": "2024-05-10T16:25:08Z",
                 "owner": "guardsight",
                 "repo": "gsvsoc_cirt-playbook-battle-cards",
-                "stars": 434
+                "stars": 435
               }
             }
           ],
@@ -1725,10 +1725,10 @@
                 "archived": false,
                 "id": 173228436,
                 "language": "Java",
-                "last_commit": "2026-08-18T16:16:20Z",
+                "last_commit": "2026-08-20T13:07:30Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72526
+                "stars": 72583
               }
             },
             {
@@ -1740,10 +1740,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-19T16:15:57Z",
+                "last_commit": "2026-08-20T19:14:01Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24600
+                "stars": 24609
               }
             },
             {
@@ -1758,7 +1758,7 @@
                 "last_commit": "2026-08-13T22:31:03Z",
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 19476
+                "stars": 19480
               }
             },
             {
@@ -1773,7 +1773,7 @@
                 "last_commit": "2026-08-18T14:52:38Z",
                 "owner": "mandiant",
                 "repo": "capa",
-                "stars": 6146
+                "stars": 6147
               }
             },
             {
@@ -1803,7 +1803,7 @@
                 "last_commit": "2026-08-17T01:41:33Z",
                 "owner": "rizinorg",
                 "repo": "rizin",
-                "stars": 3788
+                "stars": 3792
               }
             },
             {
@@ -1815,10 +1815,10 @@
                 "archived": false,
                 "id": 215366713,
                 "language": "Python",
-                "last_commit": "2026-08-19T13:28:29Z",
+                "last_commit": "2026-08-20T14:08:04Z",
                 "owner": "kevoreilly",
                 "repo": "CAPEv2",
-                "stars": 3433
+                "stars": 3437
               }
             },
             {
@@ -1930,7 +1930,7 @@
                 "last_commit": "2026-01-12T08:00:47Z",
                 "owner": "Neo23x0",
                 "repo": "Loki",
-                "stars": 3777
+                "stars": 3780
               }
             },
             {
@@ -1982,7 +1982,7 @@
                 "last_commit": "2026-08-18T15:04:22Z",
                 "owner": "google",
                 "repo": "timesketch",
-                "stars": 3391
+                "stars": 3390
               }
             },
             {
@@ -2049,7 +2049,7 @@
                 "last_commit": "2026-01-12T08:00:47Z",
                 "owner": "Neo23x0",
                 "repo": "Loki",
-                "stars": 3777
+                "stars": 3780
               }
             },
             {
@@ -2064,7 +2064,7 @@
                 "last_commit": "2026-08-19T16:42:36Z",
                 "owner": "rabbitstack",
                 "repo": "fibratus",
-                "stars": 2529
+                "stars": 2532
               }
             },
             {
@@ -2154,7 +2154,7 @@
                 "last_commit": "2026-07-29T12:33:31Z",
                 "owner": "DFIR-ORC",
                 "repo": "dfir-orc",
-                "stars": 446
+                "stars": 447
               }
             },
             {
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:35:08.813Z",
+    "last_updated": "2026-08-20T19:41:00.178Z",
     "original_repository": "meirwah/awesome-incident-response",
     "original_repository_id": 45943554,
     "original_repository_sha": "bfe8326fbed21014cd16acec3f3963a59cee3472",
