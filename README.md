@@ -34,33 +34,33 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Adversary Emulation
 
-* [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,449 | 🐛 31 | 🌐 C | 📅 2026-08-24 - Small and highly portable detection tests mapped to the MITRE ATT\&CK Framework.
-* [Caldera](https://github.com/mitre/caldera) ⭐ 7,211 | 🐛 75 | 🌐 Python | 📅 2026-08-12 - Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT\&CK™) project.
-* [APTSimulator](https://github.com/NextronSystems/APTSimulator) ⭐ 2,762 | 🐛 4 | 🌐 Batchfile | 📅 2025-09-23 - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
+* [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,453 | 🐛 31 | 🌐 C | 📅 2026-08-24 - Small and highly portable detection tests mapped to the MITRE ATT\&CK Framework.
+* [Caldera](https://github.com/mitre/caldera) ⭐ 7,212 | 🐛 75 | 🌐 Python | 📅 2026-08-12 - Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT\&CK™) project.
+* [APTSimulator](https://github.com/NextronSystems/APTSimulator) ⭐ 2,763 | 🐛 4 | 🌐 Batchfile | 📅 2025-09-23 - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) ⭐ 1,363 | 🐛 25 | 🌐 Go | 📅 2024-04-04 - Lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility.
 * [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) ⭐ 1,317 | 🐛 7 | 📅 2025-01-22 - Virtual machine for adversary emulation and threat hunting.
 * [Metta](https://github.com/uber-common/metta) ⭐ 1,145 | 🐛 13 | 🌐 Python | 📅 2019-04-01 - Information security preparedness tool to do adversarial simulation.
 * [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) ⭐ 1,095 | 🐛 7 | 🌐 Python | 📅 2019-05-01 - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT\&CK.
-* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) ⭐ 1,038 | 🐛 4 | 🌐 Python | 📅 2020-05-27 - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
+* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) ⭐ 1,039 | 🐛 4 | 🌐 Python | 📅 2020-05-27 - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
 * [AutoTTP](https://github.com/jymcheong/AutoTTP) ⭐ 262 | 🐛 0 | 🌐 Python | 📅 2023-05-26 - Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers.
 
 ### All-In-One Tools
 
-* [Flare](https://github.com/fireeye/flare-vm) ⭐ 8,961 | 🐛 28 | 🌐 PowerShell | 📅 2026-06-23 - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing.
-* [Fleetdm](https://github.com/fleetdm/fleet) ⭐ 6,773 | 🐛 3,504 | 🌐 Go | 📅 2026-08-25 - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
+* [Flare](https://github.com/fireeye/flare-vm) ⭐ 8,963 | 🐛 28 | 🌐 PowerShell | 📅 2026-06-23 - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing.
+* [Fleetdm](https://github.com/fleetdm/fleet) ⭐ 6,774 | 🐛 3,473 | 🌐 Go | 📅 2026-08-25 - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
 * [GRR Rapid Response](https://github.com/google/grr) ⭐ 5,088 | 🐛 191 | 🌐 Python | 📅 2026-05-12 - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, [PowerGRR](https://github.com/swisscom/PowerGRR) ⭐ 57 | 🐛 1 | 🌐 PowerShell | 📅 2022-03-18 provides an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
-* [Velociraptor](https://github.com/Velocidex/velociraptor) ⭐ 4,201 | 🐛 73 | 🌐 Go | 📅 2026-08-25 - Endpoint visibility and collection tool
+* [Velociraptor](https://github.com/Velocidex/velociraptor) ⭐ 4,205 | 🐛 74 | 🌐 Go | 📅 2026-08-25 - Endpoint visibility and collection tool
 * [MozDef](https://github.com/mozilla/MozDef) ⚠️ Archived - Automates the security incident handling process and facilitate the real-time activities of incident handlers.
 * [Matano](https://github.com/matanolabs/matano) ⭐ 1,694 | 🐛 55 | 🌐 Rust | 📅 2025-01-08: Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
-* [IRIS](https://github.com/dfir-iris/iris-web) ⭐ 1,544 | 🐛 420 | 🌐 Python | 📅 2026-08-24 - IRIS is a web collaborative platform for incident response analysts allowing to share investigations at a technical level.
+* [IRIS](https://github.com/dfir-iris/iris-web) ⭐ 1,545 | 🐛 423 | 🌐 Python | 📅 2026-08-24 - IRIS is a web collaborative platform for incident response analysts allowing to share investigations at a technical level.
 * [Dissect](https://github.com/fox-it/dissect) ⭐ 1,148 | 🐛 10 | 📅 2026-02-25 - Dissect is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).
 * [Kuiper](https://github.com/DFIRKuiper/Kuiper) ⭐ 901 | 🐛 12 | 🌐 JavaScript | 📅 2024-10-12 - Digital Forensics Investigation Platform
-* [Zentral](https://github.com/zentralopensource/zentral) ⭐ 878 | 🐛 33 | 🌐 Python | 📅 2026-08-25 - Combines osquery's powerful endpoint inventory features with a flexible notification and action framework. This enables one to identify and react to changes on OS X and Linux clients.
+* [Zentral](https://github.com/zentralopensource/zentral) ⭐ 878 | 🐛 35 | 🌐 Python | 📅 2026-08-25 - Combines osquery's powerful endpoint inventory features with a flexible notification and action framework. This enables one to identify and react to changes on OS X and Linux clients.
 * [CimSweep](https://github.com/PowerShellMafia/CimSweep) ⭐ 656 | 🐛 2 | 🌐 PowerShell | 📅 2019-08-19 - Suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely across all versions of Windows.
 * [Doorman](https://github.com/mwielgoszewski/doorman) ⭐ 621 | 🐛 29 | 🌐 Python | 📅 2022-12-08 - osquery fleet manager that allows remote management of osquery configurations retrieved by nodes. It takes advantage of osquery's TLS configuration, logger, and distributed read/write endpoints, to give administrators visibility across a fleet of devices with minimal overhead and intrusiveness.
 * [nightHawk](https://github.com/biggiesmallsAG/nightHawkResponse) ⭐ 607 | 🐛 23 | 🌐 Go | 📅 2019-11-20 - Application built for asynchronous forensic data presentation using ElasticSearch as the backend. It's designed to ingest Redline collections.
 * [SOC Multi-tool](https://github.com/zdhenard42/SOC-Multitool) ⭐ 420 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-13 - A powerful and user-friendly browser extension that streamlines investigations for security professionals.
-* [Cynative](https://github.com/cynative/cynative) ⭐ 192 | 🐛 17 | 🌐 Go | 📅 2026-08-24 - Deep research agent for your infra - sandboxed, read-only, covers AWS, GCP, Azure, K8s, GitHub and GitLab.
+* [Cynative](https://github.com/cynative/cynative) ⭐ 192 | 🐛 15 | 🌐 Go | 📅 2026-08-25 - Deep research agent for your infra - sandboxed, read-only, covers AWS, GCP, Azure, K8s, GitHub and GitLab.
 * [VanGuard](https://github.com/ridgelinecyberdefence/vanguard) ⭐ 154 | 🐛 0 | 🌐 Go | 📅 2026-07-28 - Cross-platform incident response toolkit with 28 pre-built use cases in a single zero-install binary. Collects memory, disk, network, and cloud artifacts with automated timeline generation.
 * [CIRTkit](https://github.com/byt3smith/CIRTKit) ⭐ 152 | 🐛 0 | 🌐 Python | 📅 2017-04-17 - CIRTKit is not just a collection of tools, but also a framework to aid in the ongoing unification of Incident Response and Forensics investigation processes.
 * [MutableSecurity](https://github.com/MutableSecurity/mutablesecurity) ⚠️ Archived - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
@@ -106,7 +106,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Evidence Collection
 
 * [UAC](https://github.com/tclahr/uac) ⭐ 1,437 | 🐛 10 | 🌐 Shell | 📅 2026-08-24 - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
-* [bulk\_extractor](https://github.com/simsong/bulk_extractor) ⭐ 1,414 | 🐛 67 | 🌐 C++ | 📅 2026-08-18 - Computer forensics tool that scans a disk image, a file, or a directory of files and extracts useful information without parsing the file system or file system structures. Because of ignoring the file system structure, the program distinguishes itself in terms of speed and thoroughness.
+* [bulk\_extractor](https://github.com/simsong/bulk_extractor) ⭐ 1,415 | 🐛 67 | 🌐 C++ | 📅 2026-08-18 - Computer forensics tool that scans a disk image, a file, or a directory of files and extracts useful information without parsing the file system or file system structures. Because of ignoring the file system structure, the program distinguishes itself in terms of speed and thoroughness.
 * [Forensic Artifacts](https://github.com/ForensicArtifacts/artifacts) ⭐ 1,268 | 🐛 44 | 🌐 Python | 📅 2026-07-31 - Digital Forensics Artifact Repository
 * [CyLR](https://github.com/orlikoski/CyLR) ⭐ 732 | 🐛 21 | 🌐 C# | 📅 2022-06-01 - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
 * [ir-rescue](https://github.com/diogo-fernan/ir-rescue) ⭐ 488 | 🐛 4 | 🌐 Batchfile | 📅 2021-02-21 - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
@@ -119,12 +119,12 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Incident Management
 
-* [Shuffle](https://github.com/frikky/Shuffle) ⭐ 2,419 | 🐛 490 | 🌐 JavaScript | 📅 2026-08-24 - A general purpose security automation platform focused on accessibility.
+* [Shuffle](https://github.com/frikky/Shuffle) ⭐ 2,419 | 🐛 491 | 🌐 JavaScript | 📅 2026-08-24 - A general purpose security automation platform focused on accessibility.
 * [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR/) ⭐ 2,030 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-07 - Cybersecurity incident management platform designed with agility and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents and is useful for CSIRTs, CERTs and SOCs alike.
 * [DFIRTrack](https://github.com/dfirtrack/dfirtrack) ⭐ 538 | 🐛 7 | 🌐 Python | 📅 2026-01-13 - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
 * [Catalyst](https://github.com/SecurityBrewery/catalyst) ⚠️ Archived - A free SOAR system that helps to automate alert handling and incident response processes.
 * [threat\_note](https://github.com/defpoint/threat_note) ⚠️ Archived - Lightweight investigation notebook that allows security researchers the ability to register and retrieve indicators related to their research.
-* [DFTimewolf](https://github.com/log2timeline/dftimewolf) ⭐ 352 | 🐛 4 | 🌐 Python | 📅 2026-08-21 - A framework for orchestrating forensic collection, processing and data export.
+* [DFTimewolf](https://github.com/log2timeline/dftimewolf) ⭐ 353 | 🐛 5 | 🌐 Python | 📅 2026-08-21 - A framework for orchestrating forensic collection, processing and data export.
 * [Sandia Cyber Omni Tracker (SCOT)](https://github.com/sandialabs/scot) ⭐ 254 | 🐛 12 | 🌐 JavaScript | 📅 2024-11-04 - Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
 * [CyberCPR](https://www.cybercpr.com) - Community and commercial incident management tool with Need-to-Know built in to support GDPR compliance while handling sensitive incidents.
 * [Cyphon](https://medevel.com/cyphon/) - Cyphon eliminates the headaches of incident management by streamlining a multitude of related tasks through a single platform. It receives, processes and triages events to provide an all-encompassing solution for your analytic workflow — aggregating data, bundling and prioritizing alerts, and empowering analysts to investigate and document incidents.
@@ -135,7 +135,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Knowledge Bases
 
 * [Windows Events Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) ⭐ 2,613 | 🐛 5 | 🌐 HTML | 📅 2023-01-24 - Windows Events Attack Samples
-* [Windows Registry Knowledge Base](https://github.com/libyal/winreg-kb) ⭐ 201 | 🐛 5 | 🌐 Python | 📅 2026-07-30 - Windows Registry Knowledge Base
+* [Windows Registry Knowledge Base](https://github.com/libyal/winreg-kb) ⭐ 202 | 🐛 5 | 🌐 Python | 📅 2026-07-30 - Windows Registry Knowledge Base
 * [Digital Forensics Artifact Knowledge Base](https://github.com/ForensicArtifacts/artifacts-kb) ⭐ 90 | 🐛 1 | 🌐 Python | 📅 2026-05-16 - Digital Forensics Artifact Knowledge Base
 
 ### Linux Distributions
@@ -157,9 +157,9 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Log Analysis Tools
 
 * [Sigma](https://github.com/SigmaHQ/sigma) ⭐ 10,937 | 🐛 199 | 🌐 Python | 📅 2026-08-18 - Generic signature format for SIEM systems already containing an extensive ruleset.
-* [Chainsaw](https://github.com/countercept/chainsaw) ⭐ 3,644 | 🐛 5 | 🌐 Rust | 📅 2026-08-19 - Chainsaw provides a powerful ‘first-response’ capability to quickly identify threats within Windows event logs.
-* [Hayabusa](https://github.com/Yamato-Security/hayabusa) ⭐ 3,322 | 🐛 21 | 🌐 Rust | 📅 2026-08-22 - Hayabusa is a Windows event log fast forensics timeline generator and threat hunting tool created by the Yamato Security group in Japan.
-* [LogonTracer](https://github.com/JPCERTCC/LogonTracer) ⭐ 3,219 | 🐛 21 | 🌐 Python | 📅 2026-08-02 - Tool to investigate malicious Windows logon by visualizing and analyzing Windows event log.
+* [Chainsaw](https://github.com/countercept/chainsaw) ⭐ 3,645 | 🐛 4 | 🌐 Rust | 📅 2026-08-25 - Chainsaw provides a powerful ‘first-response’ capability to quickly identify threats within Windows event logs.
+* [Hayabusa](https://github.com/Yamato-Security/hayabusa) ⭐ 3,324 | 🐛 21 | 🌐 Rust | 📅 2026-08-22 - Hayabusa is a Windows event log fast forensics timeline generator and threat hunting tool created by the Yamato Security group in Japan.
+* [LogonTracer](https://github.com/JPCERTCC/LogonTracer) ⭐ 3,220 | 🐛 21 | 🌐 Python | 📅 2026-08-02 - Tool to investigate malicious Windows logon by visualizing and analyzing Windows event log.
 * [StreamAlert](https://github.com/airbnb/streamalert) ⭐ 2,889 | 🐛 90 | 🌐 Python | 📅 2023-10-23 - Serverless, real-time log data analysis framework, capable of ingesting custom data sources and triggering alerts using user-defined logic.
 * [APT Hunter](https://github.com/ahmedkhlief/APT-Hunter) ⭐ 1,417 | 🐛 10 | 🌐 Python | 📅 2024-11-07 - APT-Hunter is Threat Hunting tool for windows event logs.
 * [Zircolite](https://github.com/wagga40/Zircolite) ⭐ 847 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - A standalone and fast SIGMA-based detection tool for EVTX or JSON.
@@ -204,13 +204,13 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 * [OSX Auditor](https://github.com/jipegit/OSXAuditor) ⭐ 3,135 | 🐛 8 | 🌐 JavaScript | 📅 2020-07-27 - Free Mac OS X computer forensics tool.
 * [OSX Collector](https://github.com/yelp/osxcollector) ⚠️ Archived - OSX Auditor offshoot for live response.
-* [macOS Artifact Parsing Tool (mac\_apt)](https://github.com/ydkhatri/mac_apt) ⭐ 1,076 | 🐛 8 | 🌐 Python | 📅 2026-08-21 - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
+* [macOS Artifact Parsing Tool (mac\_apt)](https://github.com/ydkhatri/mac_apt) ⭐ 1,077 | 🐛 8 | 🌐 Python | 📅 2026-08-21 - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
 * [Knockknock](https://objective-see.com/products/knockknock.html) - Displays persistent items(scripts, commands, binaries, etc.) that are set to execute automatically on OSX.
 * [The ESF Playground](https://themittenmac.com/the-esf-playground/) - A tool to view the events in Apple Endpoint Security Framework (ESF) in real time.
 
 ### Other Lists
 
-* [Awesome Forensics](https://github.com/cugu/awesome-forensics) ⭐ 5,163 | 🐛 8 | 📅 2026-08-23 - A curated list of awesome forensic analysis tools and resources.
+* [Awesome Forensics](https://github.com/cugu/awesome-forensics) ⭐ 5,164 | 🐛 8 | 📅 2026-08-23 - A curated list of awesome forensic analysis tools and resources.
 * [Didier Stevens Suite](https://github.com/DidierStevens/DidierStevensSuite) ⭐ 2,525 | 🐛 13 | 🌐 Python | 📅 2026-07-30 - Tool collection
 * [List of various Security APIs](https://github.com/deralexxx/security-apis) ⭐ 988 | 🐛 2 | 📅 2026-08-24 - Collective list of public JSON APIs for use in security.
 * [Awesome Event IDs](https://github.com/stuhli/awesome-event-ids) ⭐ 662 | 🐛 0 | 📅 2024-06-19 - Collection of Event ID resources useful for Digital Forensics and Incident Response.
@@ -218,13 +218,13 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Other Tools
 
-* [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) ⭐ 5,628 | 🐛 82 | 📅 2024-07-03 - Sysmon configuration file template with default high-quality event tracing
+* [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) ⭐ 5,630 | 🐛 82 | 📅 2024-07-03 - Sysmon configuration file template with default high-quality event tracing
 * [HELK](https://github.com/Cyb3rWard0g/HELK) ⭐ 3,931 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-06-01 - Threat Hunting platform.
 * [sysmon-modular](https://github.com/olafhartong/sysmon-modular) ⭐ 3,117 | 🐛 49 | 🌐 PowerShell | 📅 2026-08-10 - A repository of sysmon configuration modules
 * [Stenographer](https://github.com/google/stenographer) ⚠️ Archived - Packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic.
 * [Kansa](https://github.com/davehull/Kansa/) ⭐ 1,661 | 🐛 46 | 🌐 PowerShell | 📅 2022-11-22 - Modular incident response framework in PowerShell.
-* [Hindsight](https://github.com/obsidianforensics/hindsight) ⭐ 1,492 | 🐛 7 | 🌐 Python | 📅 2026-08-23 - Internet history forensics for Google Chrome/Chromium.
-* [Raccine](https://github.com/Neo23x0/Raccine) ⭐ 982 | 🐛 21 | 🌐 C++ | 📅 2023-11-08 - A Simple Ransomware Protection
+* [Hindsight](https://github.com/obsidianforensics/hindsight) ⭐ 1,494 | 🐛 7 | 🌐 Python | 📅 2026-08-23 - Internet history forensics for Google Chrome/Chromium.
+* [Raccine](https://github.com/Neo23x0/Raccine) ⭐ 983 | 🐛 21 | 🌐 C++ | 📅 2023-11-08 - A Simple Ransomware Protection
 * [Munin](https://github.com/Neo23x0/munin) ⭐ 852 | 🐛 27 | 🌐 Python | 📅 2025-03-21 - Online hash checker for VirusTotal and other services.
 * [Diffy](https://github.com/Netflix-Skunkworks/diffy) ⭐ 629 | 🐛 3 | 🌐 Python | 📅 2024-01-11 - DFIR tool developed by Netflix's SIRT that allows an investigator to quickly scope a compromise across cloud instances (Linux instances on AWS, currently) during an incident and efficiently triaging those instances for followup actions by showing differences against a baseline.
 * [MFT Browser](https://github.com/kacos2000/MFT_Browser) ⭐ 332 | 🐛 0 | 🌐 PowerShell | 📅 2024-10-07 - MFT directory tree reconstruction & record info.
@@ -247,7 +247,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Playbooks
 
-* [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) ⭐ 4,639 | 🐛 6 | 🌐 Python | 📅 2026-01-12 - Playbook to aid the development of techniques and hypothesis for hunting campaigns.
+* [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) ⭐ 4,642 | 🐛 6 | 🌐 Python | 📅 2026-01-12 - Playbook to aid the development of techniques and hypothesis for hunting campaigns.
 * [IRM](https://github.com/certsocietegenerale/IRM) ⭐ 1,140 | 🐛 0 | 📅 2025-04-11 - Incident Response Methodologies by CERT Societe Generale.
 * [AWS Incident Response Runbook Samples](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) ⭐ 1,097 | 🐛 2 | 📅 2026-08-07 - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub](https://github.com/PagerDuty/incident-response-docs) ⭐ 1,049 | 🐛 3 | 🌐 Dockerfile | 📅 2026-07-02.
@@ -262,13 +262,13 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Sandboxing/Reversing Tools
 
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,765 | 🐛 1,922 | 🌐 Java | 📅 2026-08-24 - Software Reverse Engineering Framework.
-* [Radare2](https://github.com/radareorg/radare2) ⭐ 24,638 | 🐛 818 | 🌐 C | 📅 2026-08-25 - Reverse engineering framework and command-line toolset.
-* [Cutter](https://github.com/rizinorg/cutter) ⭐ 19,565 | 🐛 493 | 🌐 C++ | 📅 2026-08-22 - Free and Open Source Reverse Engineering Platform powered by rizin.
-* [CAPA](https://github.com/mandiant/capa) ⭐ 6,154 | 🐛 295 | 🌐 Python | 📅 2026-08-24 - detects capabilities in executable files. You run it against a PE, ELF, .NET module, or shellcode file and it tells you what it thinks the program can do.
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,790 | 🐛 1,919 | 🌐 Java | 📅 2026-08-25 - Software Reverse Engineering Framework.
+* [Radare2](https://github.com/radareorg/radare2) ⭐ 24,646 | 🐛 820 | 🌐 C | 📅 2026-08-25 - Reverse engineering framework and command-line toolset.
+* [Cutter](https://github.com/rizinorg/cutter) ⭐ 19,570 | 🐛 493 | 🌐 C++ | 📅 2026-08-22 - Free and Open Source Reverse Engineering Platform powered by rizin.
+* [CAPA](https://github.com/mandiant/capa) ⭐ 6,155 | 🐛 295 | 🌐 Python | 📅 2026-08-24 - detects capabilities in executable files. You run it against a PE, ELF, .NET module, or shellcode file and it tells you what it thinks the program can do.
 * [Cuckoo](https://github.com/cuckoosandbox/cuckoo) ⚠️ Archived - Open Source Highly configurable sandboxing tool.
-* [Rizin](https://github.com/rizinorg/rizin) ⭐ 3,800 | 🐛 549 | 🌐 C | 📅 2026-08-25 - UNIX-like reverse engineering framework and command-line toolset
-* [CAPEv2](https://github.com/kevoreilly/CAPEv2) ⭐ 3,445 | 🐛 56 | 🌐 Python | 📅 2026-08-23 - Malware Configuration And Payload Extraction.
+* [Rizin](https://github.com/rizinorg/rizin) ⭐ 3,801 | 🐛 549 | 🌐 C | 📅 2026-08-25 - UNIX-like reverse engineering framework and command-line toolset
+* [CAPEv2](https://github.com/kevoreilly/CAPEv2) ⭐ 3,447 | 🐛 55 | 🌐 Python | 📅 2026-08-23 - Malware Configuration And Payload Extraction.
 * [Viper](https://github.com/viper-framework/viper) ⚠️ Archived - Python based binary analysis and management framework, that works well with Cuckoo and YARA.
 * [StringSifter](https://github.com/fireeye/stringsifter) ⭐ 762 | 🐛 12 | 🌐 Python | 📅 2026-07-24 - A machine learning tool that ranks strings based on their relevance for malware analysis.
 * [Cuckoo-modified](https://github.com/spender-sandbox/cuckoo-modified) ⭐ 406 | 🐛 173 | 🌐 Python | 📅 2017-11-21 - Heavily modified Cuckoo fork developed by community.
@@ -294,8 +294,8 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Timeline Tools
 
-* [Timesketch](https://github.com/google/timesketch) ⭐ 3,394 | 🐛 216 | 🌐 Python | 📅 2026-08-24 - Open source tool for collaborative forensic timeline analysis.
-* [Plaso](https://github.com/log2timeline/plaso) ⭐ 2,139 | 🐛 284 | 🌐 Python | 📅 2026-08-03 -  a Python-based backend engine for the tool log2timeline.
+* [Timesketch](https://github.com/google/timesketch) ⭐ 3,395 | 🐛 217 | 🌐 Python | 📅 2026-08-24 - Open source tool for collaborative forensic timeline analysis.
+* [Plaso](https://github.com/log2timeline/plaso) ⭐ 2,139 | 🐛 285 | 🌐 Python | 📅 2026-08-03 -  a Python-based backend engine for the tool log2timeline.
 * [Aurora Incident Response](https://github.com/cyb3rfox/Aurora-Incident-Response) ⭐ 1,078 | 🐛 41 | 🌐 JavaScript | 📅 2023-10-05 - Platform developed to build easily a detailed timeline of an incident.
 * [Morgue](https://github.com/etsy/morgue) ⚠️ Archived - PHP Web app by Etsy for managing postmortems.
 * [Highlighter](https://www.fireeye.com/services/freeware/highlighter.html) - Free Tool available from Fire/Mandiant that will depict log/text file that can highlight areas on the graphic, that corresponded to a key word or phrase. Good for time lining an infection and what was done post compromise.
@@ -309,7 +309,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [LOKI](https://github.com/Neo23x0/Loki) ⭐ 3,783 | 🐛 18 | 🌐 Python | 📅 2026-01-12 - Free IR scanner for scanning endpoint with yara rules and other indicators(IOCs).
 * [Fibratus](https://github.com/rabbitstack/fibratus) ⭐ 2,537 | 🐛 42 | 🌐 Go | 📅 2026-08-19 - Tool for exploration and tracing of the Windows kernel.
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) ⭐ 1,442 | 🐛 64 | 🌐 C# | 📅 2023-11-16 - Live disk forensics platform, using PowerShell.
-* [RegRipper](https://github.com/keydet89/RegRipper3.0) ⭐ 714 | 🐛 9 | 🌐 Perl | 📅 2026-05-27 - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
+* [RegRipper](https://github.com/keydet89/RegRipper3.0) ⭐ 715 | 🐛 9 | 🌐 Perl | 📅 2026-05-27 - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) ⭐ 521 | 🐛 11 | 🌐 Python | 📅 2021-01-26 - Tool that collects different artifacts on live Windows systems and records the results in csv files. With the analyses of these artifacts, an early compromise can be detected.
 * [PSRecon](https://github.com/gfoss/PSRecon/) ⭐ 494 | 🐛 4 | 🌐 PowerShell | 📅 2017-07-29 - PSRecon gathers data from a remote Windows host using PowerShell (v2 or later), organizes the data into folders, hashes all extracted data, hashes PowerShell and various system properties, and sends the data off to the security team. The data can be pushed to a share, sent over email, or retained locally.
 * [MEERKAT](https://github.com/TonyPhipps/Meerkat) ⭐ 483 | 🐛 0 | 🌐 PowerShell | 📅 2024-11-15 - PowerShell-based triage and threat hunting for Windows.
