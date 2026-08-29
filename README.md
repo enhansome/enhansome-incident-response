@@ -47,7 +47,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### All-In-One Tools
 
 * [Flare](https://github.com/fireeye/flare-vm) ⭐ 8,973 | 🐛 28 | 🌐 PowerShell | 📅 2026-06-23 - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing.
-* [Fleetdm](https://github.com/fleetdm/fleet) ⭐ 6,789 | 🐛 3,508 | 🌐 Go | 📅 2026-08-29 - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
+* [Fleetdm](https://github.com/fleetdm/fleet) ⭐ 6,789 | 🐛 3,509 | 🌐 Go | 📅 2026-08-29 - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
 * [GRR Rapid Response](https://github.com/google/grr) ⭐ 5,088 | 🐛 191 | 🌐 Python | 📅 2026-05-12 - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, [PowerGRR](https://github.com/swisscom/PowerGRR) ⭐ 57 | 🐛 1 | 🌐 PowerShell | 📅 2022-03-18 provides an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
 * [Velociraptor](https://github.com/Velocidex/velociraptor) ⭐ 4,212 | 🐛 75 | 🌐 Go | 📅 2026-08-25 - Endpoint visibility and collection tool
 * [MozDef](https://github.com/mozilla/MozDef) ⚠️ Archived - Automates the security incident handling process and facilitate the real-time activities of incident handlers.
@@ -252,7 +252,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [AWS Incident Response Runbook Samples](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) ⭐ 1,100 | 🐛 1 | 📅 2026-08-28 - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub](https://github.com/PagerDuty/incident-response-docs) ⭐ 1,049 | 🐛 3 | 🌐 Dockerfile | 📅 2026-07-02.
 * [Counteractive Playbooks](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) ⭐ 801 | 🐛 5 | 🌐 Makefile | 📅 2024-05-07 - Counteractive PLaybooks collection.
-* [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) ⭐ 550 | 🐛 19 | 🌐 Python | 📅 2026-07-06 - Phantom Community Playbooks for Splunk but also customizable for other use.
+* [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) ⭐ 551 | 🐛 19 | 🌐 Python | 📅 2026-07-06 - Phantom Community Playbooks for Splunk but also customizable for other use.
 * [GuardSIght Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) ⭐ 435 | 🐛 0 | 📅 2024-05-10 - A collection of Cyber Incident Response Playbook Battle Cards
 
 ### Process Dump Tools
@@ -262,9 +262,9 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Sandboxing/Reversing Tools
 
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 73,352 | 🐛 1,921 | 🌐 Java | 📅 2026-08-28 - Software Reverse Engineering Framework.
-* [Radare2](https://github.com/radareorg/radare2) ⭐ 24,672 | 🐛 824 | 🌐 C | 📅 2026-08-29 - Reverse engineering framework and command-line toolset.
-* [Cutter](https://github.com/rizinorg/cutter) ⭐ 19,611 | 🐛 494 | 🌐 C++ | 📅 2026-08-22 - Free and Open Source Reverse Engineering Platform powered by rizin.
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 73,382 | 🐛 1,921 | 🌐 Java | 📅 2026-08-28 - Software Reverse Engineering Framework.
+* [Radare2](https://github.com/radareorg/radare2) ⭐ 24,674 | 🐛 824 | 🌐 C | 📅 2026-08-29 - Reverse engineering framework and command-line toolset.
+* [Cutter](https://github.com/rizinorg/cutter) ⭐ 19,613 | 🐛 494 | 🌐 C++ | 📅 2026-08-22 - Free and Open Source Reverse Engineering Platform powered by rizin.
 * [CAPA](https://github.com/mandiant/capa) ⭐ 6,160 | 🐛 296 | 🌐 Python | 📅 2026-08-28 - detects capabilities in executable files. You run it against a PE, ELF, .NET module, or shellcode file and it tells you what it thinks the program can do.
 * [Cuckoo](https://github.com/cuckoosandbox/cuckoo) ⚠️ Archived - Open Source Highly configurable sandboxing tool.
 * [Rizin](https://github.com/rizinorg/rizin) ⭐ 3,814 | 🐛 554 | 🌐 C | 📅 2026-08-28 - UNIX-like reverse engineering framework and command-line toolset
