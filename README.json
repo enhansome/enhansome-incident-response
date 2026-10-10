@@ -21,7 +21,7 @@
                 "open_issues": 36,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12633,
+                "stars": 12644,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -45,7 +45,7 @@
                 "open_issues": 76,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7339,
+                "stars": 7382,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -177,7 +177,7 @@
                 "open_issues": 7,
                 "owner": "endgameinc",
                 "repo": "RTA",
-                "stars": 1098,
+                "stars": 1099,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:53.028Z"
@@ -291,11 +291,11 @@
                 "id": 309820286,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T22:59:56Z",
+                "last_commit": "2026-10-10T20:08:15Z",
                 "open_issues": 3737,
                 "owner": "fleetdm",
                 "repo": "fleet",
-                "stars": 6971,
+                "stars": 6975,
                 "topics": [
                   "binary-authorization",
                   "configuration-management",
@@ -352,11 +352,11 @@
                 "id": 126576769,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T15:47:55Z",
-                "open_issues": 77,
+                "last_commit": "2026-10-10T05:00:05Z",
+                "open_issues": 78,
                 "owner": "Velocidex",
                 "repo": "velociraptor",
-                "stars": 4322,
+                "stars": 4329,
                 "topics": [
                   "digital-forensics",
                   "endpoint-discovery",
@@ -457,7 +457,7 @@
                 "open_issues": 438,
                 "owner": "dfir-iris",
                 "repo": "iris-web",
-                "stars": 1581,
+                "stars": 1582,
                 "topics": [
                   "csirt-tooling",
                   "digital-forensics",
@@ -815,7 +815,7 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T11:12:55Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "tclahr",
                 "repo": "uac",
                 "stars": 1481,
@@ -860,7 +860,7 @@
                 "open_issues": 69,
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1432,
+                "stars": 1433,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:53.028Z"
@@ -1077,7 +1077,7 @@
                 "open_issues": 494,
                 "owner": "Shuffle",
                 "repo": "Shuffle",
-                "stars": 2454,
+                "stars": 2453,
                 "topics": [
                   "automation",
                   "cybersecurity",
@@ -1114,7 +1114,7 @@
                 "open_issues": 13,
                 "owner": "certsocietegenerale",
                 "repo": "FIR",
-                "stars": 2044,
+                "stars": 2045,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:53.028Z"
@@ -1348,7 +1348,7 @@
                 "open_issues": 0,
                 "owner": "Security-Onion-Solutions",
                 "repo": "security-onion",
-                "stars": 3135,
+                "stars": 3136,
                 "topics": [
                   "dfir",
                   "hunting",
@@ -1482,10 +1482,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-06T11:26:20Z",
-                "open_issues": 255,
+                "open_issues": 256,
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 11201,
+                "stars": 11206,
                 "topics": [
                   "elasticsearch",
                   "ids",
@@ -1516,7 +1516,7 @@
                 "open_issues": 4,
                 "owner": "WithSecureOpenSource",
                 "repo": "chainsaw",
-                "stars": 3683,
+                "stars": 3684,
                 "topics": [
                   "attack",
                   "blueteam",
@@ -1551,7 +1551,7 @@
                 "open_issues": 19,
                 "owner": "Yamato-Security",
                 "repo": "hayabusa",
-                "stars": 3390,
+                "stars": 3391,
                 "topics": [
                   "attack",
                   "cybersecurity",
@@ -1593,7 +1593,7 @@
                 "open_issues": 22,
                 "owner": "JPCERTCC",
                 "repo": "LogonTracer",
-                "stars": 3283,
+                "stars": 3284,
                 "topics": [
                   "active-directory",
                   "blueteam",
@@ -1620,7 +1620,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2023-10-23T17:15:34Z",
-                "open_issues": 90,
+                "open_issues": 89,
                 "owner": "airbnb",
                 "repo": "streamalert",
                 "stars": 2891,
@@ -1653,7 +1653,7 @@
                 "open_issues": 10,
                 "owner": "ahmedkhlief",
                 "repo": "APT-Hunter",
-                "stars": 1425,
+                "stars": 1426,
                 "topics": [
                   "apt-attacks",
                   "forensic-analysis",
@@ -1679,7 +1679,7 @@
                 "id": 343939740,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T19:56:49Z",
+                "last_commit": "2026-10-10T16:08:19Z",
                 "open_issues": 0,
                 "owner": "wagga40",
                 "repo": "Zircolite",
@@ -1919,7 +1919,7 @@
                 "open_issues": 145,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4473,
+                "stars": 4476,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -1947,10 +1947,10 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-05T18:12:04Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4365,
+                "stars": 4367,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:53.028Z"
@@ -1971,7 +1971,7 @@
                 "open_issues": 35,
                 "owner": "jtsylve",
                 "repo": "LiME",
-                "stars": 2046,
+                "stars": 2047,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:53.028Z"
@@ -2245,7 +2245,7 @@
                 "id": 101311218,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-03T14:01:59Z",
+                "last_commit": "2026-10-10T12:14:54Z",
                 "open_issues": 9,
                 "owner": "ydkhatri",
                 "repo": "mac_apt",
@@ -2281,7 +2281,7 @@
                 "open_issues": 7,
                 "owner": "cugu",
                 "repo": "awesome-forensics",
-                "stars": 5210,
+                "stars": 5212,
                 "topics": [
                   "computer-forensics",
                   "dfir",
@@ -2391,7 +2391,7 @@
                 "open_issues": 83,
                 "owner": "SwiftOnSecurity",
                 "repo": "sysmon-config",
-                "stars": 5685,
+                "stars": 5686,
                 "topics": [
                   "logging",
                   "monitoring",
@@ -2421,7 +2421,7 @@
                 "open_issues": 60,
                 "owner": "Cyb3rWard0g",
                 "repo": "HELK",
-                "stars": 3930,
+                "stars": 3931,
                 "topics": [
                   "docker",
                   "dockerhub",
@@ -2526,7 +2526,7 @@
                 "open_issues": 37,
                 "owner": "RyanDFIR",
                 "repo": "hindsight",
-                "stars": 1533,
+                "stars": 1536,
                 "topics": [
                   "browser-forensics",
                   "chrome",
@@ -2870,7 +2870,7 @@
                 "open_issues": 6,
                 "owner": "OTRF",
                 "repo": "ThreatHunter-Playbook",
-                "stars": 4683,
+                "stars": 4684,
                 "topics": [
                   "dfir",
                   "hunter",
@@ -2943,7 +2943,7 @@
                 "open_issues": 3,
                 "owner": "PagerDuty",
                 "repo": "incident-response-docs",
-                "stars": 1054,
+                "stars": 1053,
                 "topics": [
                   "documentation",
                   "incident-response",
@@ -3051,10 +3051,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T10:30:16Z",
-                "open_issues": 1989,
+                "open_issues": 1994,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 82130,
+                "stars": 82701,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -3075,11 +3075,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T14:54:58Z",
-                "open_issues": 790,
+                "last_commit": "2026-10-10T06:16:03Z",
+                "open_issues": 788,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24970,
+                "stars": 24987,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -3111,7 +3111,7 @@
                 "open_issues": 499,
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 19957,
+                "stars": 19975,
                 "topics": [
                   "cutter",
                   "debugger",
@@ -3138,7 +3138,7 @@
                 "open_issues": 314,
                 "owner": "mandiant",
                 "repo": "capa",
-                "stars": 6221,
+                "stars": 6223,
                 "topics": [
                   "binary-analysis",
                   "gsoc-2026",
@@ -3182,11 +3182,11 @@
                 "id": 299867499,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-09T20:00:52Z",
-                "open_issues": 610,
+                "last_commit": "2026-10-10T17:50:50Z",
+                "open_issues": 613,
                 "owner": "rizinorg",
                 "repo": "rizin",
-                "stars": 3943,
+                "stars": 3949,
                 "topics": [
                   "debugging",
                   "exploitation",
@@ -3508,8 +3508,8 @@
                 "id": 23812315,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T10:38:36Z",
-                "open_issues": 317,
+                "last_commit": "2026-10-10T09:45:17Z",
+                "open_issues": 312,
                 "owner": "log2timeline",
                 "repo": "plaso",
                 "stars": 2168,
@@ -3686,7 +3686,7 @@
                 "open_issues": 10,
                 "owner": "keydet89",
                 "repo": "RegRipper3.0",
-                "stars": 722,
+                "stars": 723,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:07:53.028Z"
@@ -3923,7 +3923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:12:18.536Z",
+    "last_updated": "2026-10-10T22:27:12.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools for incident response",
@@ -3935,7 +3935,7 @@
       "open_issues": 89,
       "owner": "meirwah",
       "repo": "awesome-incident-response",
-      "stars": 9443,
+      "stars": 9442,
       "topics": [
         "awesome",
         "awesome-list",
